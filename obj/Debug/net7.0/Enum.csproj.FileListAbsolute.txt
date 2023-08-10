@@ -1,0 +1,15 @@
+/Users/eyyuperdogan/Projects/Company Project/Enum/bin/Debug/net7.0/Enum
+/Users/eyyuperdogan/Projects/Company Project/Enum/bin/Debug/net7.0/Enum.deps.json
+/Users/eyyuperdogan/Projects/Company Project/Enum/bin/Debug/net7.0/Enum.runtimeconfig.json
+/Users/eyyuperdogan/Projects/Company Project/Enum/bin/Debug/net7.0/Enum.dll
+/Users/eyyuperdogan/Projects/Company Project/Enum/bin/Debug/net7.0/Enum.pdb
+/Users/eyyuperdogan/Projects/Company Project/Enum/obj/Debug/net7.0/Enum.csproj.AssemblyReference.cache
+/Users/eyyuperdogan/Projects/Company Project/Enum/obj/Debug/net7.0/Enum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eyyuperdogan/Projects/Company Project/Enum/obj/Debug/net7.0/Enum.AssemblyInfoInputs.cache
+/Users/eyyuperdogan/Projects/Company Project/Enum/obj/Debug/net7.0/Enum.AssemblyInfo.cs
+/Users/eyyuperdogan/Projects/Company Project/Enum/obj/Debug/net7.0/Enum.csproj.CoreCompileInputs.cache
+/Users/eyyuperdogan/Projects/Company Project/Enum/obj/Debug/net7.0/Enum.dll
+/Users/eyyuperdogan/Projects/Company Project/Enum/obj/Debug/net7.0/refint/Enum.dll
+/Users/eyyuperdogan/Projects/Company Project/Enum/obj/Debug/net7.0/Enum.pdb
+/Users/eyyuperdogan/Projects/Company Project/Enum/obj/Debug/net7.0/Enum.genruntimeconfig.cache
+/Users/eyyuperdogan/Projects/Company Project/Enum/obj/Debug/net7.0/ref/Enum.dll
